@@ -5,3 +5,5 @@
 ## Лабораторная работа №6
 
 [Ссылка на репозиторий проекта](https://github.com/onepix87/vue-sweetshop-delivery).
+
+[Ссылка на развернутый проект](https://oxygen-cbba4.web.app/).
